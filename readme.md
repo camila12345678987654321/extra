@@ -1,2 +1,1 @@
-Este é um novo arquivo
-Alteração...
+Este é um novo arquivo 
